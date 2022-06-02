@@ -1,7 +1,7 @@
 ### Hi there, i'm Caio Rodrigues 👋
 
 - My current objectives is building skills for better codding
-- Been of late learning MySQL and JavaScript 
+- Been advancing in Javascript and began my Java journey
 - Pronouns: <i>He/He 🕴️</i>
 
 <div align="center">
